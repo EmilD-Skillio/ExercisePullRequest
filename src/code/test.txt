@@ -1,1 +1,2 @@
-here is some text and now I changed it three times.
+here is some text and now I changed it three times. I'm adding another line.
+here is another line. It's not very long.
